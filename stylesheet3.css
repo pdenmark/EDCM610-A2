@@ -1,0 +1,56 @@
+body {
+margin-right: 150px;
+text-align:center;
+}
+
+header {
+border-style: double; 
+border-width: 5px;
+border-color:lime green;
+font-size:35px;
+
+}
+
+
+button {font-family:"Segoe UI", Arial, sans-serif;
+font-size:20px;
+color:pink} 
+
+
+img{border:20px solid #ddd; 
+}
+
+div{ 
+div.relative 
+position:relative;
+left:30px;
+border:3px solid }
+
+details
+{color: pink;
+font-size:35px;
+}
+
+summary{
+font-family:Cursive,Lucida Handwriting;
+color:pink;
+}
+
+footer {border-style:dotted;
+border:6px green;
+font-size:20px;
+}
+
+#hobby1{ 
+background-color:aqua;
+opacity:0.3;
+}
+
+#hobby2{
+background-color:aqua;
+opacity:0.6;
+}
+
+#hobby3{background-color:aqua;
+opactiy:0.10;
+}
